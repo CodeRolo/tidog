@@ -1,1 +1,1 @@
-# tidog
+# tindog wed page
